@@ -9,7 +9,7 @@ it was bult using:
 - Plotly
 
 this project focuses on the comparison of a few ML models, namely LightGBM, Random Forest Regressor and Linear Regression.
-it features an interactive air quality analytics dashboard featuring multi-station analysis, pollutant prediction, machine learning model comparison, and SHAP-based (SHapley Additive exPlanations) explainable AI.
+it features a minimalist-ish interactive air quality analytics dashboard featuring multi-station analysis, pollutant prediction, machine learning model comparison, and SHAP-based (SHapley Additive exPlanations) explainable AI.
 
 to run this, simply:
 
